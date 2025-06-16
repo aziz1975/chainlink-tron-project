@@ -49,7 +49,7 @@ npm install
 
 ## Configuration
 
-* Create a `.env` file and provide your private key and the TRON Nile testnet RPC URL:
+* Create a `.env` file in scripts folder and provide your private key and the TRON Nile testnet RPC URL:
 
 ```env
 PRIVATE_KEY_NILE=your_private_key_here
