@@ -45,6 +45,7 @@ cd chainlink-tron-project
 
 ```bash
 npm install
+npm install @chainlink/contracts
 ```
 
 ## Configuration
